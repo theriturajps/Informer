@@ -26,7 +26,7 @@ class Informer:
 ██║██║ ╚████║██║     ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗██║  ██║
 ╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   
                                                
- {Back.RED}  Created by Jay Vadhaiya, Github: sudo0x18  {Back.RESET}{Style.RESET_ALL}
+ {Back.RED}  Created by @RituRajPS, Github: theriturajps | website: riturajps.in  {Back.RESET}{Style.RESET_ALL}
 """
 	DESCRIPTION = f"""\n{Fore.BLUE}DESCRIPTION {Fore.RESET}:\n-------------\nInformer is a OSINT information gathering tool that gathers whois, Sub-domain, DNS, geolocation and shodan information of the target."""
 
