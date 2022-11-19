@@ -105,5 +105,5 @@ You can propose a feature request opening an issue or a pull request.
 Here is a list of Informer's contributors:
 
 <a href="https://github.com/theriturajps">
-  <img src="https://contributors-img.web.app/image?repo=sudo0x18/informer" />
+  <img src="https://avatars.githubusercontent.com/u/107362757?s=96&v=4" />
 </a>
