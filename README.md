@@ -29,7 +29,7 @@
 Install informer with git
 
 ```bash
-  git clone https://github.com/sudo0x18/informer.git
+  git clone https://github.com/theriturajps/Informer.git
   cd informer
 ```
 
@@ -104,6 +104,6 @@ You can propose a feature request opening an issue or a pull request.
 
 Here is a list of Informer's contributors:
 
-<a href="https://github.com/Datalux/Osintgram/graphs/contributors">
+<a href="https://github.com/theriturajps">
   <img src="https://contributors-img.web.app/image?repo=sudo0x18/informer" />
 </a>
