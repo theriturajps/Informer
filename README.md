@@ -8,10 +8,10 @@
   <h2 align="center">Informer</h2>
   <p align="center">
     <a
-      href="https://github.com/sudo0x18/informer/issues/new?assignees=&labels=bug">Report
+      href="https://github.com/theriturajps/Informer/issues/new?assignees=&labels=bug">Report
       Bug</a>
     ·
-    <a href="https://github.com/sudo0x18/informer/issues">Request Feature</a>
+    <a href="https://github.com/theriturajps/Informer/issues">Request Feature</a>
   </p>
 
   <img alt="informer" src="https://img.shields.io/github/stars/sudo0x18/informer">
