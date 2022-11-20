@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="https://i.imgur.com/ixfuCYE.png" alt="logo" height="135px">
+    <img src="https://upcdn.io/W142hJk/raw/demo/4mqvR9PaEm.png" alt="logo" height="135px">
   </a>
 
   <h2 align="center">Informer</h2>
